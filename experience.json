@@ -1,0 +1,255 @@
+{
+  "schemaVersion": "v1.0",
+  "chapters": [
+    {
+      "id": "preparation",
+      "clipIndex": 0,
+      "startSeconds": 0,
+      "title": "Factory preparation",
+      "caption": "Recorded Isaac Sim camera calibration and conveyor setup before the model run.",
+      "camera": {
+        "position": [
+          4,
+          3,
+          5
+        ],
+        "target": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    },
+    {
+      "id": "object-000",
+      "clipIndex": 0,
+      "startSeconds": 0.667,
+      "title": "Item 1: hard cheese",
+      "caption": "Actual camera/model run: prediction hard_cheese; destination bin_hard; pick and bin correct.",
+      "objectId": "/World/RecordedItems/Item000",
+      "label": "hard_cheese \u2192 bin_hard",
+      "camera": {
+        "position": [
+          4,
+          3,
+          5
+        ],
+        "target": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    },
+    {
+      "id": "object-001",
+      "clipIndex": 0,
+      "startSeconds": 12.383,
+      "title": "Item 2: emmental cheese",
+      "caption": "Actual camera/model run: prediction emmental_cheese; destination bin_hard; pick and bin correct.",
+      "objectId": "/World/RecordedItems/Item001",
+      "label": "emmental_cheese \u2192 bin_hard",
+      "camera": {
+        "position": [
+          4,
+          3,
+          5
+        ],
+        "target": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    },
+    {
+      "id": "object-002",
+      "clipIndex": 0,
+      "startSeconds": 25.267,
+      "title": "Item 3: semi hard cheese",
+      "caption": "Actual camera/model run: prediction soft_cheese; destination no authorized bin; not_cheese; no pick attempted.",
+      "objectId": "/World/RecordedItems/Item002",
+      "label": "soft_cheese \u2192 no authorized bin",
+      "camera": {
+        "position": [
+          4,
+          3,
+          5
+        ],
+        "target": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    },
+    {
+      "id": "object-003",
+      "clipIndex": 0,
+      "startSeconds": 28.733,
+      "title": "Item 4: raclette cheese",
+      "caption": "Actual camera/model run: prediction empty; destination no authorized bin; uncertain; no pick attempted.",
+      "objectId": "/World/RecordedItems/Item003",
+      "label": "empty \u2192 no authorized bin",
+      "camera": {
+        "position": [
+          4,
+          3,
+          5
+        ],
+        "target": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    },
+    {
+      "id": "object-004",
+      "clipIndex": 0,
+      "startSeconds": 32.2,
+      "title": "Item 5: soft cheese",
+      "caption": "Actual camera/model run: prediction raclette_cheese; destination no authorized bin; uncertain; no pick attempted.",
+      "objectId": "/World/RecordedItems/Item004",
+      "label": "raclette_cheese \u2192 no authorized bin",
+      "camera": {
+        "position": [
+          4,
+          3,
+          5
+        ],
+        "target": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    },
+    {
+      "id": "object-005",
+      "clipIndex": 0,
+      "startSeconds": 35.667,
+      "title": "Item 6: goat cheese soft",
+      "caption": "Actual camera/model run: prediction not_cheese; destination no authorized bin; not_cheese; no pick attempted.",
+      "objectId": "/World/RecordedItems/Item005",
+      "label": "not_cheese \u2192 no authorized bin",
+      "camera": {
+        "position": [
+          4,
+          3,
+          5
+        ],
+        "target": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    },
+    {
+      "id": "object-006",
+      "clipIndex": 0,
+      "startSeconds": 39.133,
+      "title": "Item 7: fresh cheese",
+      "caption": "Actual camera/model run: prediction soft_cheese; destination bin_soft; pick succeeded; incorrect bin.",
+      "objectId": "/World/RecordedItems/Item006",
+      "label": "soft_cheese \u2192 bin_soft",
+      "camera": {
+        "position": [
+          4,
+          3,
+          5
+        ],
+        "target": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    },
+    {
+      "id": "object-007",
+      "clipIndex": 0,
+      "startSeconds": 51.15,
+      "title": "Item 8: cottage cheese",
+      "caption": "Actual camera/model run: prediction cottage_cheese; destination bin_fresh; pick and bin correct.",
+      "objectId": "/World/RecordedItems/Item007",
+      "label": "cottage_cheese \u2192 bin_fresh",
+      "camera": {
+        "position": [
+          4,
+          3,
+          5
+        ],
+        "target": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    },
+    {
+      "id": "object-008",
+      "clipIndex": 0,
+      "startSeconds": 62.383,
+      "title": "Item 9: blue mould cheese",
+      "caption": "Actual camera/model run: prediction blue_mould_cheese; destination no authorized bin; not_cheese; no pick attempted.",
+      "objectId": "/World/RecordedItems/Item008",
+      "label": "blue_mould_cheese \u2192 no authorized bin",
+      "camera": {
+        "position": [
+          4,
+          3,
+          5
+        ],
+        "target": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    },
+    {
+      "id": "object-009",
+      "clipIndex": 0,
+      "startSeconds": 65.85,
+      "title": "Item 10: blue mould cheese",
+      "caption": "Actual camera/model run: prediction blue_mould_cheese; destination no authorized bin; not_cheese; no pick attempted.",
+      "objectId": "/World/RecordedItems/Item009",
+      "label": "blue_mould_cheese \u2192 no authorized bin",
+      "camera": {
+        "position": [
+          4,
+          3,
+          5
+        ],
+        "target": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    },
+    {
+      "id": "object-010",
+      "clipIndex": 0,
+      "startSeconds": 69.317,
+      "title": "Item 11: not cheese",
+      "caption": "Actual camera/model run: prediction not_cheese; destination no authorized bin; not_cheese; no pick attempted.",
+      "objectId": "/World/RecordedItems/Item010",
+      "label": "not_cheese \u2192 no authorized bin",
+      "camera": {
+        "position": [
+          4,
+          3,
+          5
+        ],
+        "target": [
+          0,
+          0.5,
+          0
+        ]
+      }
+    }
+  ]
+}

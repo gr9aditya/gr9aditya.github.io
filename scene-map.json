@@ -1,0 +1,2897 @@
+{
+  "schemaVersion": "v1.0",
+  "objects": [
+    {
+      "id": "/World/Bins",
+      "displayName": "Bins",
+      "sourcePrimPath": "/World/Bins",
+      "parentId": "/World",
+      "nodeIndices": [
+        98
+      ],
+      "nodes": [
+        "Bins"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue",
+      "displayName": "bin_blue",
+      "sourcePrimPath": "/World/Bins/bin_blue",
+      "parentId": "/World/Bins",
+      "nodeIndices": [
+        171
+      ],
+      "nodes": [
+        "bin_blue"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Back",
+      "displayName": "Back",
+      "sourcePrimPath": "/World/Bins/bin_blue/Back",
+      "parentId": "/World/Bins/bin_blue",
+      "nodeIndices": [
+        175
+      ],
+      "nodes": [
+        "Back"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Floor",
+      "displayName": "Floor",
+      "sourcePrimPath": "/World/Bins/bin_blue/Floor",
+      "parentId": "/World/Bins/bin_blue",
+      "nodeIndices": [
+        172
+      ],
+      "nodes": [
+        "Floor"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Left",
+      "displayName": "Left",
+      "sourcePrimPath": "/World/Bins/bin_blue/Left",
+      "parentId": "/World/Bins/bin_blue",
+      "nodeIndices": [
+        173
+      ],
+      "nodes": [
+        "Left"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Right",
+      "displayName": "Right",
+      "sourcePrimPath": "/World/Bins/bin_blue/Right",
+      "parentId": "/World/Bins/bin_blue",
+      "nodeIndices": [
+        174
+      ],
+      "nodes": [
+        "Right"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station",
+      "displayName": "Station",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station",
+      "parentId": "/World/Bins/bin_blue",
+      "nodeIndices": [
+        176
+      ],
+      "nodes": [
+        "Station"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station/accent",
+      "displayName": "accent",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station/accent",
+      "parentId": "/World/Bins/bin_blue/Station",
+      "nodeIndices": [
+        186
+      ],
+      "nodes": [
+        "accent"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station/base",
+      "displayName": "base",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station/base",
+      "parentId": "/World/Bins/bin_blue/Station",
+      "nodeIndices": [
+        177
+      ],
+      "nodes": [
+        "base"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station/foot_0",
+      "displayName": "foot_0",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station/foot_0",
+      "parentId": "/World/Bins/bin_blue/Station",
+      "nodeIndices": [
+        179
+      ],
+      "nodes": [
+        "foot_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station/foot_1",
+      "displayName": "foot_1",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station/foot_1",
+      "parentId": "/World/Bins/bin_blue/Station",
+      "nodeIndices": [
+        181
+      ],
+      "nodes": [
+        "foot_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station/foot_2",
+      "displayName": "foot_2",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station/foot_2",
+      "parentId": "/World/Bins/bin_blue/Station",
+      "nodeIndices": [
+        183
+      ],
+      "nodes": [
+        "foot_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station/foot_3",
+      "displayName": "foot_3",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station/foot_3",
+      "parentId": "/World/Bins/bin_blue/Station",
+      "nodeIndices": [
+        185
+      ],
+      "nodes": [
+        "foot_3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station/label",
+      "displayName": "label",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station/label",
+      "parentId": "/World/Bins/bin_blue/Station",
+      "nodeIndices": [
+        188
+      ],
+      "nodes": [
+        "label"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station/leg_0",
+      "displayName": "leg_0",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station/leg_0",
+      "parentId": "/World/Bins/bin_blue/Station",
+      "nodeIndices": [
+        178
+      ],
+      "nodes": [
+        "leg_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station/leg_1",
+      "displayName": "leg_1",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station/leg_1",
+      "parentId": "/World/Bins/bin_blue/Station",
+      "nodeIndices": [
+        180
+      ],
+      "nodes": [
+        "leg_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station/leg_2",
+      "displayName": "leg_2",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station/leg_2",
+      "parentId": "/World/Bins/bin_blue/Station",
+      "nodeIndices": [
+        182
+      ],
+      "nodes": [
+        "leg_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station/leg_3",
+      "displayName": "leg_3",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station/leg_3",
+      "parentId": "/World/Bins/bin_blue/Station",
+      "nodeIndices": [
+        184
+      ],
+      "nodes": [
+        "leg_3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_blue/Station/sign_post",
+      "displayName": "sign_post",
+      "sourcePrimPath": "/World/Bins/bin_blue/Station/sign_post",
+      "parentId": "/World/Bins/bin_blue/Station",
+      "nodeIndices": [
+        187
+      ],
+      "nodes": [
+        "sign_post"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh",
+      "displayName": "bin_fresh",
+      "sourcePrimPath": "/World/Bins/bin_fresh",
+      "parentId": "/World/Bins",
+      "nodeIndices": [
+        153
+      ],
+      "nodes": [
+        "bin_fresh"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Back",
+      "displayName": "Back",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Back",
+      "parentId": "/World/Bins/bin_fresh",
+      "nodeIndices": [
+        157
+      ],
+      "nodes": [
+        "Back"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Floor",
+      "displayName": "Floor",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Floor",
+      "parentId": "/World/Bins/bin_fresh",
+      "nodeIndices": [
+        154
+      ],
+      "nodes": [
+        "Floor"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Left",
+      "displayName": "Left",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Left",
+      "parentId": "/World/Bins/bin_fresh",
+      "nodeIndices": [
+        155
+      ],
+      "nodes": [
+        "Left"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Right",
+      "displayName": "Right",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Right",
+      "parentId": "/World/Bins/bin_fresh",
+      "nodeIndices": [
+        156
+      ],
+      "nodes": [
+        "Right"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station",
+      "displayName": "Station",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station",
+      "parentId": "/World/Bins/bin_fresh",
+      "nodeIndices": [
+        158
+      ],
+      "nodes": [
+        "Station"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station/accent",
+      "displayName": "accent",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station/accent",
+      "parentId": "/World/Bins/bin_fresh/Station",
+      "nodeIndices": [
+        168
+      ],
+      "nodes": [
+        "accent"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station/base",
+      "displayName": "base",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station/base",
+      "parentId": "/World/Bins/bin_fresh/Station",
+      "nodeIndices": [
+        159
+      ],
+      "nodes": [
+        "base"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station/foot_0",
+      "displayName": "foot_0",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station/foot_0",
+      "parentId": "/World/Bins/bin_fresh/Station",
+      "nodeIndices": [
+        161
+      ],
+      "nodes": [
+        "foot_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station/foot_1",
+      "displayName": "foot_1",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station/foot_1",
+      "parentId": "/World/Bins/bin_fresh/Station",
+      "nodeIndices": [
+        163
+      ],
+      "nodes": [
+        "foot_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station/foot_2",
+      "displayName": "foot_2",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station/foot_2",
+      "parentId": "/World/Bins/bin_fresh/Station",
+      "nodeIndices": [
+        165
+      ],
+      "nodes": [
+        "foot_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station/foot_3",
+      "displayName": "foot_3",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station/foot_3",
+      "parentId": "/World/Bins/bin_fresh/Station",
+      "nodeIndices": [
+        167
+      ],
+      "nodes": [
+        "foot_3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station/label",
+      "displayName": "label",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station/label",
+      "parentId": "/World/Bins/bin_fresh/Station",
+      "nodeIndices": [
+        170
+      ],
+      "nodes": [
+        "label"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station/leg_0",
+      "displayName": "leg_0",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station/leg_0",
+      "parentId": "/World/Bins/bin_fresh/Station",
+      "nodeIndices": [
+        160
+      ],
+      "nodes": [
+        "leg_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station/leg_1",
+      "displayName": "leg_1",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station/leg_1",
+      "parentId": "/World/Bins/bin_fresh/Station",
+      "nodeIndices": [
+        162
+      ],
+      "nodes": [
+        "leg_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station/leg_2",
+      "displayName": "leg_2",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station/leg_2",
+      "parentId": "/World/Bins/bin_fresh/Station",
+      "nodeIndices": [
+        164
+      ],
+      "nodes": [
+        "leg_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station/leg_3",
+      "displayName": "leg_3",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station/leg_3",
+      "parentId": "/World/Bins/bin_fresh/Station",
+      "nodeIndices": [
+        166
+      ],
+      "nodes": [
+        "leg_3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_fresh/Station/sign_post",
+      "displayName": "sign_post",
+      "sourcePrimPath": "/World/Bins/bin_fresh/Station/sign_post",
+      "parentId": "/World/Bins/bin_fresh/Station",
+      "nodeIndices": [
+        169
+      ],
+      "nodes": [
+        "sign_post"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard",
+      "displayName": "bin_hard",
+      "sourcePrimPath": "/World/Bins/bin_hard",
+      "parentId": "/World/Bins",
+      "nodeIndices": [
+        99
+      ],
+      "nodes": [
+        "bin_hard"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Back",
+      "displayName": "Back",
+      "sourcePrimPath": "/World/Bins/bin_hard/Back",
+      "parentId": "/World/Bins/bin_hard",
+      "nodeIndices": [
+        103
+      ],
+      "nodes": [
+        "Back"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Floor",
+      "displayName": "Floor",
+      "sourcePrimPath": "/World/Bins/bin_hard/Floor",
+      "parentId": "/World/Bins/bin_hard",
+      "nodeIndices": [
+        100
+      ],
+      "nodes": [
+        "Floor"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Left",
+      "displayName": "Left",
+      "sourcePrimPath": "/World/Bins/bin_hard/Left",
+      "parentId": "/World/Bins/bin_hard",
+      "nodeIndices": [
+        101
+      ],
+      "nodes": [
+        "Left"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Right",
+      "displayName": "Right",
+      "sourcePrimPath": "/World/Bins/bin_hard/Right",
+      "parentId": "/World/Bins/bin_hard",
+      "nodeIndices": [
+        102
+      ],
+      "nodes": [
+        "Right"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station",
+      "displayName": "Station",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station",
+      "parentId": "/World/Bins/bin_hard",
+      "nodeIndices": [
+        104
+      ],
+      "nodes": [
+        "Station"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station/accent",
+      "displayName": "accent",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station/accent",
+      "parentId": "/World/Bins/bin_hard/Station",
+      "nodeIndices": [
+        114
+      ],
+      "nodes": [
+        "accent"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station/base",
+      "displayName": "base",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station/base",
+      "parentId": "/World/Bins/bin_hard/Station",
+      "nodeIndices": [
+        105
+      ],
+      "nodes": [
+        "base"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station/foot_0",
+      "displayName": "foot_0",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station/foot_0",
+      "parentId": "/World/Bins/bin_hard/Station",
+      "nodeIndices": [
+        107
+      ],
+      "nodes": [
+        "foot_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station/foot_1",
+      "displayName": "foot_1",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station/foot_1",
+      "parentId": "/World/Bins/bin_hard/Station",
+      "nodeIndices": [
+        109
+      ],
+      "nodes": [
+        "foot_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station/foot_2",
+      "displayName": "foot_2",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station/foot_2",
+      "parentId": "/World/Bins/bin_hard/Station",
+      "nodeIndices": [
+        111
+      ],
+      "nodes": [
+        "foot_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station/foot_3",
+      "displayName": "foot_3",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station/foot_3",
+      "parentId": "/World/Bins/bin_hard/Station",
+      "nodeIndices": [
+        113
+      ],
+      "nodes": [
+        "foot_3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station/label",
+      "displayName": "label",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station/label",
+      "parentId": "/World/Bins/bin_hard/Station",
+      "nodeIndices": [
+        116
+      ],
+      "nodes": [
+        "label"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station/leg_0",
+      "displayName": "leg_0",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station/leg_0",
+      "parentId": "/World/Bins/bin_hard/Station",
+      "nodeIndices": [
+        106
+      ],
+      "nodes": [
+        "leg_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station/leg_1",
+      "displayName": "leg_1",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station/leg_1",
+      "parentId": "/World/Bins/bin_hard/Station",
+      "nodeIndices": [
+        108
+      ],
+      "nodes": [
+        "leg_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station/leg_2",
+      "displayName": "leg_2",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station/leg_2",
+      "parentId": "/World/Bins/bin_hard/Station",
+      "nodeIndices": [
+        110
+      ],
+      "nodes": [
+        "leg_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station/leg_3",
+      "displayName": "leg_3",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station/leg_3",
+      "parentId": "/World/Bins/bin_hard/Station",
+      "nodeIndices": [
+        112
+      ],
+      "nodes": [
+        "leg_3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_hard/Station/sign_post",
+      "displayName": "sign_post",
+      "sourcePrimPath": "/World/Bins/bin_hard/Station/sign_post",
+      "parentId": "/World/Bins/bin_hard/Station",
+      "nodeIndices": [
+        115
+      ],
+      "nodes": [
+        "sign_post"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard",
+      "displayName": "bin_semi_hard",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard",
+      "parentId": "/World/Bins",
+      "nodeIndices": [
+        117
+      ],
+      "nodes": [
+        "bin_semi_hard"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Back",
+      "displayName": "Back",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Back",
+      "parentId": "/World/Bins/bin_semi_hard",
+      "nodeIndices": [
+        121
+      ],
+      "nodes": [
+        "Back"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Floor",
+      "displayName": "Floor",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Floor",
+      "parentId": "/World/Bins/bin_semi_hard",
+      "nodeIndices": [
+        118
+      ],
+      "nodes": [
+        "Floor"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Left",
+      "displayName": "Left",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Left",
+      "parentId": "/World/Bins/bin_semi_hard",
+      "nodeIndices": [
+        119
+      ],
+      "nodes": [
+        "Left"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Right",
+      "displayName": "Right",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Right",
+      "parentId": "/World/Bins/bin_semi_hard",
+      "nodeIndices": [
+        120
+      ],
+      "nodes": [
+        "Right"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station",
+      "displayName": "Station",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station",
+      "parentId": "/World/Bins/bin_semi_hard",
+      "nodeIndices": [
+        122
+      ],
+      "nodes": [
+        "Station"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station/accent",
+      "displayName": "accent",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station/accent",
+      "parentId": "/World/Bins/bin_semi_hard/Station",
+      "nodeIndices": [
+        132
+      ],
+      "nodes": [
+        "accent"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station/base",
+      "displayName": "base",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station/base",
+      "parentId": "/World/Bins/bin_semi_hard/Station",
+      "nodeIndices": [
+        123
+      ],
+      "nodes": [
+        "base"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station/foot_0",
+      "displayName": "foot_0",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station/foot_0",
+      "parentId": "/World/Bins/bin_semi_hard/Station",
+      "nodeIndices": [
+        125
+      ],
+      "nodes": [
+        "foot_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station/foot_1",
+      "displayName": "foot_1",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station/foot_1",
+      "parentId": "/World/Bins/bin_semi_hard/Station",
+      "nodeIndices": [
+        127
+      ],
+      "nodes": [
+        "foot_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station/foot_2",
+      "displayName": "foot_2",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station/foot_2",
+      "parentId": "/World/Bins/bin_semi_hard/Station",
+      "nodeIndices": [
+        129
+      ],
+      "nodes": [
+        "foot_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station/foot_3",
+      "displayName": "foot_3",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station/foot_3",
+      "parentId": "/World/Bins/bin_semi_hard/Station",
+      "nodeIndices": [
+        131
+      ],
+      "nodes": [
+        "foot_3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station/label",
+      "displayName": "label",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station/label",
+      "parentId": "/World/Bins/bin_semi_hard/Station",
+      "nodeIndices": [
+        134
+      ],
+      "nodes": [
+        "label"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station/leg_0",
+      "displayName": "leg_0",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station/leg_0",
+      "parentId": "/World/Bins/bin_semi_hard/Station",
+      "nodeIndices": [
+        124
+      ],
+      "nodes": [
+        "leg_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station/leg_1",
+      "displayName": "leg_1",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station/leg_1",
+      "parentId": "/World/Bins/bin_semi_hard/Station",
+      "nodeIndices": [
+        126
+      ],
+      "nodes": [
+        "leg_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station/leg_2",
+      "displayName": "leg_2",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station/leg_2",
+      "parentId": "/World/Bins/bin_semi_hard/Station",
+      "nodeIndices": [
+        128
+      ],
+      "nodes": [
+        "leg_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station/leg_3",
+      "displayName": "leg_3",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station/leg_3",
+      "parentId": "/World/Bins/bin_semi_hard/Station",
+      "nodeIndices": [
+        130
+      ],
+      "nodes": [
+        "leg_3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_semi_hard/Station/sign_post",
+      "displayName": "sign_post",
+      "sourcePrimPath": "/World/Bins/bin_semi_hard/Station/sign_post",
+      "parentId": "/World/Bins/bin_semi_hard/Station",
+      "nodeIndices": [
+        133
+      ],
+      "nodes": [
+        "sign_post"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft",
+      "displayName": "bin_soft",
+      "sourcePrimPath": "/World/Bins/bin_soft",
+      "parentId": "/World/Bins",
+      "nodeIndices": [
+        135
+      ],
+      "nodes": [
+        "bin_soft"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Back",
+      "displayName": "Back",
+      "sourcePrimPath": "/World/Bins/bin_soft/Back",
+      "parentId": "/World/Bins/bin_soft",
+      "nodeIndices": [
+        139
+      ],
+      "nodes": [
+        "Back"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Floor",
+      "displayName": "Floor",
+      "sourcePrimPath": "/World/Bins/bin_soft/Floor",
+      "parentId": "/World/Bins/bin_soft",
+      "nodeIndices": [
+        136
+      ],
+      "nodes": [
+        "Floor"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Left",
+      "displayName": "Left",
+      "sourcePrimPath": "/World/Bins/bin_soft/Left",
+      "parentId": "/World/Bins/bin_soft",
+      "nodeIndices": [
+        137
+      ],
+      "nodes": [
+        "Left"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Right",
+      "displayName": "Right",
+      "sourcePrimPath": "/World/Bins/bin_soft/Right",
+      "parentId": "/World/Bins/bin_soft",
+      "nodeIndices": [
+        138
+      ],
+      "nodes": [
+        "Right"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station",
+      "displayName": "Station",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station",
+      "parentId": "/World/Bins/bin_soft",
+      "nodeIndices": [
+        140
+      ],
+      "nodes": [
+        "Station"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station/accent",
+      "displayName": "accent",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station/accent",
+      "parentId": "/World/Bins/bin_soft/Station",
+      "nodeIndices": [
+        150
+      ],
+      "nodes": [
+        "accent"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station/base",
+      "displayName": "base",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station/base",
+      "parentId": "/World/Bins/bin_soft/Station",
+      "nodeIndices": [
+        141
+      ],
+      "nodes": [
+        "base"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station/foot_0",
+      "displayName": "foot_0",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station/foot_0",
+      "parentId": "/World/Bins/bin_soft/Station",
+      "nodeIndices": [
+        143
+      ],
+      "nodes": [
+        "foot_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station/foot_1",
+      "displayName": "foot_1",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station/foot_1",
+      "parentId": "/World/Bins/bin_soft/Station",
+      "nodeIndices": [
+        145
+      ],
+      "nodes": [
+        "foot_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station/foot_2",
+      "displayName": "foot_2",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station/foot_2",
+      "parentId": "/World/Bins/bin_soft/Station",
+      "nodeIndices": [
+        147
+      ],
+      "nodes": [
+        "foot_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station/foot_3",
+      "displayName": "foot_3",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station/foot_3",
+      "parentId": "/World/Bins/bin_soft/Station",
+      "nodeIndices": [
+        149
+      ],
+      "nodes": [
+        "foot_3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station/label",
+      "displayName": "label",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station/label",
+      "parentId": "/World/Bins/bin_soft/Station",
+      "nodeIndices": [
+        152
+      ],
+      "nodes": [
+        "label"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station/leg_0",
+      "displayName": "leg_0",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station/leg_0",
+      "parentId": "/World/Bins/bin_soft/Station",
+      "nodeIndices": [
+        142
+      ],
+      "nodes": [
+        "leg_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station/leg_1",
+      "displayName": "leg_1",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station/leg_1",
+      "parentId": "/World/Bins/bin_soft/Station",
+      "nodeIndices": [
+        144
+      ],
+      "nodes": [
+        "leg_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station/leg_2",
+      "displayName": "leg_2",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station/leg_2",
+      "parentId": "/World/Bins/bin_soft/Station",
+      "nodeIndices": [
+        146
+      ],
+      "nodes": [
+        "leg_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station/leg_3",
+      "displayName": "leg_3",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station/leg_3",
+      "parentId": "/World/Bins/bin_soft/Station",
+      "nodeIndices": [
+        148
+      ],
+      "nodes": [
+        "leg_3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/bin_soft/Station/sign_post",
+      "displayName": "sign_post",
+      "sourcePrimPath": "/World/Bins/bin_soft/Station/sign_post",
+      "parentId": "/World/Bins/bin_soft/Station",
+      "nodeIndices": [
+        151
+      ],
+      "nodes": [
+        "sign_post"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject",
+      "displayName": "reject",
+      "sourcePrimPath": "/World/Bins/reject",
+      "parentId": "/World/Bins",
+      "nodeIndices": [
+        189
+      ],
+      "nodes": [
+        "reject"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Back",
+      "displayName": "Back",
+      "sourcePrimPath": "/World/Bins/reject/Back",
+      "parentId": "/World/Bins/reject",
+      "nodeIndices": [
+        193
+      ],
+      "nodes": [
+        "Back"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Floor",
+      "displayName": "Floor",
+      "sourcePrimPath": "/World/Bins/reject/Floor",
+      "parentId": "/World/Bins/reject",
+      "nodeIndices": [
+        190
+      ],
+      "nodes": [
+        "Floor"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Left",
+      "displayName": "Left",
+      "sourcePrimPath": "/World/Bins/reject/Left",
+      "parentId": "/World/Bins/reject",
+      "nodeIndices": [
+        191
+      ],
+      "nodes": [
+        "Left"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Right",
+      "displayName": "Right",
+      "sourcePrimPath": "/World/Bins/reject/Right",
+      "parentId": "/World/Bins/reject",
+      "nodeIndices": [
+        192
+      ],
+      "nodes": [
+        "Right"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station",
+      "displayName": "Station",
+      "sourcePrimPath": "/World/Bins/reject/Station",
+      "parentId": "/World/Bins/reject",
+      "nodeIndices": [
+        194
+      ],
+      "nodes": [
+        "Station"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station/accent",
+      "displayName": "accent",
+      "sourcePrimPath": "/World/Bins/reject/Station/accent",
+      "parentId": "/World/Bins/reject/Station",
+      "nodeIndices": [
+        204
+      ],
+      "nodes": [
+        "accent"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station/base",
+      "displayName": "base",
+      "sourcePrimPath": "/World/Bins/reject/Station/base",
+      "parentId": "/World/Bins/reject/Station",
+      "nodeIndices": [
+        195
+      ],
+      "nodes": [
+        "base"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station/foot_0",
+      "displayName": "foot_0",
+      "sourcePrimPath": "/World/Bins/reject/Station/foot_0",
+      "parentId": "/World/Bins/reject/Station",
+      "nodeIndices": [
+        197
+      ],
+      "nodes": [
+        "foot_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station/foot_1",
+      "displayName": "foot_1",
+      "sourcePrimPath": "/World/Bins/reject/Station/foot_1",
+      "parentId": "/World/Bins/reject/Station",
+      "nodeIndices": [
+        199
+      ],
+      "nodes": [
+        "foot_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station/foot_2",
+      "displayName": "foot_2",
+      "sourcePrimPath": "/World/Bins/reject/Station/foot_2",
+      "parentId": "/World/Bins/reject/Station",
+      "nodeIndices": [
+        201
+      ],
+      "nodes": [
+        "foot_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station/foot_3",
+      "displayName": "foot_3",
+      "sourcePrimPath": "/World/Bins/reject/Station/foot_3",
+      "parentId": "/World/Bins/reject/Station",
+      "nodeIndices": [
+        203
+      ],
+      "nodes": [
+        "foot_3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station/label",
+      "displayName": "label",
+      "sourcePrimPath": "/World/Bins/reject/Station/label",
+      "parentId": "/World/Bins/reject/Station",
+      "nodeIndices": [
+        206
+      ],
+      "nodes": [
+        "label"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station/leg_0",
+      "displayName": "leg_0",
+      "sourcePrimPath": "/World/Bins/reject/Station/leg_0",
+      "parentId": "/World/Bins/reject/Station",
+      "nodeIndices": [
+        196
+      ],
+      "nodes": [
+        "leg_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station/leg_1",
+      "displayName": "leg_1",
+      "sourcePrimPath": "/World/Bins/reject/Station/leg_1",
+      "parentId": "/World/Bins/reject/Station",
+      "nodeIndices": [
+        198
+      ],
+      "nodes": [
+        "leg_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station/leg_2",
+      "displayName": "leg_2",
+      "sourcePrimPath": "/World/Bins/reject/Station/leg_2",
+      "parentId": "/World/Bins/reject/Station",
+      "nodeIndices": [
+        200
+      ],
+      "nodes": [
+        "leg_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station/leg_3",
+      "displayName": "leg_3",
+      "sourcePrimPath": "/World/Bins/reject/Station/leg_3",
+      "parentId": "/World/Bins/reject/Station",
+      "nodeIndices": [
+        202
+      ],
+      "nodes": [
+        "leg_3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Bins/reject/Station/sign_post",
+      "displayName": "sign_post",
+      "sourcePrimPath": "/World/Bins/reject/Station/sign_post",
+      "parentId": "/World/Bins/reject/Station",
+      "nodeIndices": [
+        205
+      ],
+      "nodes": [
+        "sign_post"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Conveyor",
+      "displayName": "Conveyor",
+      "sourcePrimPath": "/World/Conveyor",
+      "parentId": "/World",
+      "nodeIndices": [
+        97
+      ],
+      "nodes": [
+        "Conveyor"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/DomeLight",
+      "displayName": "DomeLight",
+      "sourcePrimPath": "/World/DomeLight",
+      "parentId": "/World",
+      "nodeIndices": [
+        3
+      ],
+      "nodes": [
+        "DomeLight"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory",
+      "displayName": "Factory",
+      "sourcePrimPath": "/World/Factory",
+      "parentId": "/World",
+      "nodeIndices": [
+        50
+      ],
+      "nodes": [
+        "Factory"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Beacon",
+      "displayName": "Beacon",
+      "sourcePrimPath": "/World/Factory/Beacon",
+      "parentId": "/World/Factory",
+      "nodeIndices": [
+        89
+      ],
+      "nodes": [
+        "Beacon"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Beacon/lamp_0",
+      "displayName": "lamp_0",
+      "sourcePrimPath": "/World/Factory/Beacon/lamp_0",
+      "parentId": "/World/Factory/Beacon",
+      "nodeIndices": [
+        91
+      ],
+      "nodes": [
+        "lamp_0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Beacon/lamp_1",
+      "displayName": "lamp_1",
+      "sourcePrimPath": "/World/Factory/Beacon/lamp_1",
+      "parentId": "/World/Factory/Beacon",
+      "nodeIndices": [
+        92
+      ],
+      "nodes": [
+        "lamp_1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Beacon/lamp_2",
+      "displayName": "lamp_2",
+      "sourcePrimPath": "/World/Factory/Beacon/lamp_2",
+      "parentId": "/World/Factory/Beacon",
+      "nodeIndices": [
+        93
+      ],
+      "nodes": [
+        "lamp_2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Beacon/post",
+      "displayName": "post",
+      "sourcePrimPath": "/World/Factory/Beacon/post",
+      "parentId": "/World/Factory/Beacon",
+      "nodeIndices": [
+        90
+      ],
+      "nodes": [
+        "post"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor",
+      "displayName": "Conveyor",
+      "sourcePrimPath": "/World/Factory/Conveyor",
+      "parentId": "/World/Factory",
+      "nodeIndices": [
+        57
+      ],
+      "nodes": [
+        "Conveyor"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/foot_0_left",
+      "displayName": "foot_0_left",
+      "sourcePrimPath": "/World/Factory/Conveyor/foot_0_left",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        75
+      ],
+      "nodes": [
+        "foot_0_left"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/foot_0_right",
+      "displayName": "foot_0_right",
+      "sourcePrimPath": "/World/Factory/Conveyor/foot_0_right",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        76
+      ],
+      "nodes": [
+        "foot_0_right"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/foot_1_left",
+      "displayName": "foot_1_left",
+      "sourcePrimPath": "/World/Factory/Conveyor/foot_1_left",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        77
+      ],
+      "nodes": [
+        "foot_1_left"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/foot_1_right",
+      "displayName": "foot_1_right",
+      "sourcePrimPath": "/World/Factory/Conveyor/foot_1_right",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        78
+      ],
+      "nodes": [
+        "foot_1_right"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/left_rail",
+      "displayName": "left_rail",
+      "sourcePrimPath": "/World/Factory/Conveyor/left_rail",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        58
+      ],
+      "nodes": [
+        "left_rail"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/leg_0_left",
+      "displayName": "leg_0_left",
+      "sourcePrimPath": "/World/Factory/Conveyor/leg_0_left",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        71
+      ],
+      "nodes": [
+        "leg_0_left"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/leg_0_right",
+      "displayName": "leg_0_right",
+      "sourcePrimPath": "/World/Factory/Conveyor/leg_0_right",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        72
+      ],
+      "nodes": [
+        "leg_0_right"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/leg_1_left",
+      "displayName": "leg_1_left",
+      "sourcePrimPath": "/World/Factory/Conveyor/leg_1_left",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        73
+      ],
+      "nodes": [
+        "leg_1_left"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/leg_1_right",
+      "displayName": "leg_1_right",
+      "sourcePrimPath": "/World/Factory/Conveyor/leg_1_right",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        74
+      ],
+      "nodes": [
+        "leg_1_right"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/right_rail",
+      "displayName": "right_rail",
+      "sourcePrimPath": "/World/Factory/Conveyor/right_rail",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        59
+      ],
+      "nodes": [
+        "right_rail"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/slat_00",
+      "displayName": "slat_00",
+      "sourcePrimPath": "/World/Factory/Conveyor/slat_00",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        60
+      ],
+      "nodes": [
+        "slat_00"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/slat_01",
+      "displayName": "slat_01",
+      "sourcePrimPath": "/World/Factory/Conveyor/slat_01",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        61
+      ],
+      "nodes": [
+        "slat_01"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/slat_02",
+      "displayName": "slat_02",
+      "sourcePrimPath": "/World/Factory/Conveyor/slat_02",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        62
+      ],
+      "nodes": [
+        "slat_02"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/slat_03",
+      "displayName": "slat_03",
+      "sourcePrimPath": "/World/Factory/Conveyor/slat_03",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        63
+      ],
+      "nodes": [
+        "slat_03"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/slat_04",
+      "displayName": "slat_04",
+      "sourcePrimPath": "/World/Factory/Conveyor/slat_04",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        64
+      ],
+      "nodes": [
+        "slat_04"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/slat_05",
+      "displayName": "slat_05",
+      "sourcePrimPath": "/World/Factory/Conveyor/slat_05",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        65
+      ],
+      "nodes": [
+        "slat_05"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/slat_06",
+      "displayName": "slat_06",
+      "sourcePrimPath": "/World/Factory/Conveyor/slat_06",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        66
+      ],
+      "nodes": [
+        "slat_06"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/slat_07",
+      "displayName": "slat_07",
+      "sourcePrimPath": "/World/Factory/Conveyor/slat_07",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        67
+      ],
+      "nodes": [
+        "slat_07"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/slat_08",
+      "displayName": "slat_08",
+      "sourcePrimPath": "/World/Factory/Conveyor/slat_08",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        68
+      ],
+      "nodes": [
+        "slat_08"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/slat_09",
+      "displayName": "slat_09",
+      "sourcePrimPath": "/World/Factory/Conveyor/slat_09",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        69
+      ],
+      "nodes": [
+        "slat_09"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Conveyor/slat_10",
+      "displayName": "slat_10",
+      "sourcePrimPath": "/World/Factory/Conveyor/slat_10",
+      "parentId": "/World/Factory/Conveyor",
+      "nodeIndices": [
+        70
+      ],
+      "nodes": [
+        "slat_10"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/DomeLight",
+      "displayName": "DomeLight",
+      "sourcePrimPath": "/World/Factory/DomeLight",
+      "parentId": "/World/Factory",
+      "nodeIndices": [
+        94
+      ],
+      "nodes": [
+        "DomeLight"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Floor",
+      "displayName": "Floor",
+      "sourcePrimPath": "/World/Factory/Floor",
+      "parentId": "/World/Factory",
+      "nodeIndices": [
+        51
+      ],
+      "nodes": [
+        "Floor"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Inspection",
+      "displayName": "Inspection",
+      "sourcePrimPath": "/World/Factory/Inspection",
+      "parentId": "/World/Factory",
+      "nodeIndices": [
+        79
+      ],
+      "nodes": [
+        "Inspection"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Inspection/camera_body",
+      "displayName": "camera_body",
+      "sourcePrimPath": "/World/Factory/Inspection/camera_body",
+      "parentId": "/World/Factory/Inspection",
+      "nodeIndices": [
+        85
+      ],
+      "nodes": [
+        "camera_body"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Inspection/camera_lens",
+      "displayName": "camera_lens",
+      "sourcePrimPath": "/World/Factory/Inspection/camera_lens",
+      "parentId": "/World/Factory/Inspection",
+      "nodeIndices": [
+        86
+      ],
+      "nodes": [
+        "camera_lens"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Inspection/crossbeam",
+      "displayName": "crossbeam",
+      "sourcePrimPath": "/World/Factory/Inspection/crossbeam",
+      "parentId": "/World/Factory/Inspection",
+      "nodeIndices": [
+        84
+      ],
+      "nodes": [
+        "crossbeam"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Inspection/left_guard",
+      "displayName": "left_guard",
+      "sourcePrimPath": "/World/Factory/Inspection/left_guard",
+      "parentId": "/World/Factory/Inspection",
+      "nodeIndices": [
+        82
+      ],
+      "nodes": [
+        "left_guard"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Inspection/left_light",
+      "displayName": "left_light",
+      "sourcePrimPath": "/World/Factory/Inspection/left_light",
+      "parentId": "/World/Factory/Inspection",
+      "nodeIndices": [
+        87
+      ],
+      "nodes": [
+        "left_light"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Inspection/left_post",
+      "displayName": "left_post",
+      "sourcePrimPath": "/World/Factory/Inspection/left_post",
+      "parentId": "/World/Factory/Inspection",
+      "nodeIndices": [
+        80
+      ],
+      "nodes": [
+        "left_post"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Inspection/right_guard",
+      "displayName": "right_guard",
+      "sourcePrimPath": "/World/Factory/Inspection/right_guard",
+      "parentId": "/World/Factory/Inspection",
+      "nodeIndices": [
+        83
+      ],
+      "nodes": [
+        "right_guard"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Inspection/right_light",
+      "displayName": "right_light",
+      "sourcePrimPath": "/World/Factory/Inspection/right_light",
+      "parentId": "/World/Factory/Inspection",
+      "nodeIndices": [
+        88
+      ],
+      "nodes": [
+        "right_light"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/Inspection/right_post",
+      "displayName": "right_post",
+      "sourcePrimPath": "/World/Factory/Inspection/right_post",
+      "parentId": "/World/Factory/Inspection",
+      "nodeIndices": [
+        81
+      ],
+      "nodes": [
+        "right_post"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/KeyLight",
+      "displayName": "KeyLight",
+      "sourcePrimPath": "/World/Factory/KeyLight",
+      "parentId": "/World/Factory",
+      "nodeIndices": [
+        95
+      ],
+      "nodes": [
+        "KeyLight"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/SafetyBoundary",
+      "displayName": "SafetyBoundary",
+      "sourcePrimPath": "/World/Factory/SafetyBoundary",
+      "parentId": "/World/Factory",
+      "nodeIndices": [
+        52
+      ],
+      "nodes": [
+        "SafetyBoundary"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/SafetyBoundary/east",
+      "displayName": "east",
+      "sourcePrimPath": "/World/Factory/SafetyBoundary/east",
+      "parentId": "/World/Factory/SafetyBoundary",
+      "nodeIndices": [
+        54
+      ],
+      "nodes": [
+        "east"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/SafetyBoundary/north",
+      "displayName": "north",
+      "sourcePrimPath": "/World/Factory/SafetyBoundary/north",
+      "parentId": "/World/Factory/SafetyBoundary",
+      "nodeIndices": [
+        56
+      ],
+      "nodes": [
+        "north"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/SafetyBoundary/south",
+      "displayName": "south",
+      "sourcePrimPath": "/World/Factory/SafetyBoundary/south",
+      "parentId": "/World/Factory/SafetyBoundary",
+      "nodeIndices": [
+        55
+      ],
+      "nodes": [
+        "south"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Factory/SafetyBoundary/west",
+      "displayName": "west",
+      "sourcePrimPath": "/World/Factory/SafetyBoundary/west",
+      "parentId": "/World/Factory/SafetyBoundary",
+      "nodeIndices": [
+        53
+      ],
+      "nodes": [
+        "west"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka",
+      "displayName": "Franka",
+      "sourcePrimPath": "/World/Franka",
+      "parentId": "/World",
+      "nodeIndices": [
+        4
+      ],
+      "nodes": [
+        "Franka"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_hand",
+      "displayName": "panda_hand",
+      "sourcePrimPath": "/World/Franka/panda_hand",
+      "parentId": "/World/Franka",
+      "nodeIndices": [
+        37
+      ],
+      "nodes": [
+        "panda_hand"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_hand/geometry",
+      "displayName": "geometry",
+      "sourcePrimPath": "/World/Franka/panda_hand/geometry",
+      "parentId": "/World/Franka/panda_hand",
+      "nodeIndices": [
+        38
+      ],
+      "nodes": [
+        "geometry"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_hand/geometry/panda_hand",
+      "displayName": "panda_hand",
+      "sourcePrimPath": "/World/Franka/panda_hand/geometry/panda_hand",
+      "parentId": "/World/Franka/panda_hand/geometry",
+      "nodeIndices": [
+        39
+      ],
+      "nodes": [
+        "panda_hand"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_leftfinger",
+      "displayName": "panda_leftfinger",
+      "sourcePrimPath": "/World/Franka/panda_leftfinger",
+      "parentId": "/World/Franka",
+      "nodeIndices": [
+        45
+      ],
+      "nodes": [
+        "panda_leftfinger"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_leftfinger/geometry",
+      "displayName": "geometry",
+      "sourcePrimPath": "/World/Franka/panda_leftfinger/geometry",
+      "parentId": "/World/Franka/panda_leftfinger",
+      "nodeIndices": [
+        46
+      ],
+      "nodes": [
+        "geometry"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_leftfinger/geometry/ID27",
+      "displayName": "ID27",
+      "sourcePrimPath": "/World/Franka/panda_leftfinger/geometry/ID27",
+      "parentId": "/World/Franka/panda_leftfinger/geometry",
+      "nodeIndices": [
+        47
+      ],
+      "nodes": [
+        "ID27"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_leftfinger/geometry/ID27SVM",
+      "displayName": "ID27SVM",
+      "sourcePrimPath": "/World/Franka/panda_leftfinger/geometry/ID27SVM",
+      "parentId": "/World/Franka/panda_leftfinger/geometry",
+      "nodeIndices": [
+        49
+      ],
+      "nodes": [
+        "ID27SVM"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_leftfinger/geometry/ID27fa3",
+      "displayName": "ID27fa3",
+      "sourcePrimPath": "/World/Franka/panda_leftfinger/geometry/ID27fa3",
+      "parentId": "/World/Franka/panda_leftfinger/geometry",
+      "nodeIndices": [
+        48
+      ],
+      "nodes": [
+        "ID27fa3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link0",
+      "displayName": "panda_link0",
+      "sourcePrimPath": "/World/Franka/panda_link0",
+      "parentId": "/World/Franka",
+      "nodeIndices": [
+        5
+      ],
+      "nodes": [
+        "panda_link0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link0/geometry",
+      "displayName": "geometry",
+      "sourcePrimPath": "/World/Franka/panda_link0/geometry",
+      "parentId": "/World/Franka/panda_link0",
+      "nodeIndices": [
+        6
+      ],
+      "nodes": [
+        "geometry"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link0/geometry/panda_link0",
+      "displayName": "panda_link0",
+      "sourcePrimPath": "/World/Franka/panda_link0/geometry/panda_link0",
+      "parentId": "/World/Franka/panda_link0/geometry",
+      "nodeIndices": [
+        7,
+        8
+      ],
+      "nodes": [
+        "panda_link0",
+        "panda_link0"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link1",
+      "displayName": "panda_link1",
+      "sourcePrimPath": "/World/Franka/panda_link1",
+      "parentId": "/World/Franka",
+      "nodeIndices": [
+        9
+      ],
+      "nodes": [
+        "panda_link1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link1/geometry",
+      "displayName": "geometry",
+      "sourcePrimPath": "/World/Franka/panda_link1/geometry",
+      "parentId": "/World/Franka/panda_link1",
+      "nodeIndices": [
+        10
+      ],
+      "nodes": [
+        "geometry"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link1/geometry/panda_link1",
+      "displayName": "panda_link1",
+      "sourcePrimPath": "/World/Franka/panda_link1/geometry/panda_link1",
+      "parentId": "/World/Franka/panda_link1/geometry",
+      "nodeIndices": [
+        11,
+        12
+      ],
+      "nodes": [
+        "panda_link1",
+        "panda_link1"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link2",
+      "displayName": "panda_link2",
+      "sourcePrimPath": "/World/Franka/panda_link2",
+      "parentId": "/World/Franka",
+      "nodeIndices": [
+        13
+      ],
+      "nodes": [
+        "panda_link2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link2/geometry",
+      "displayName": "geometry",
+      "sourcePrimPath": "/World/Franka/panda_link2/geometry",
+      "parentId": "/World/Franka/panda_link2",
+      "nodeIndices": [
+        14
+      ],
+      "nodes": [
+        "geometry"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link2/geometry/panda_link2",
+      "displayName": "panda_link2",
+      "sourcePrimPath": "/World/Franka/panda_link2/geometry/panda_link2",
+      "parentId": "/World/Franka/panda_link2/geometry",
+      "nodeIndices": [
+        15,
+        16
+      ],
+      "nodes": [
+        "panda_link2",
+        "panda_link2"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link3",
+      "displayName": "panda_link3",
+      "sourcePrimPath": "/World/Franka/panda_link3",
+      "parentId": "/World/Franka",
+      "nodeIndices": [
+        17
+      ],
+      "nodes": [
+        "panda_link3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link3/geometry",
+      "displayName": "geometry",
+      "sourcePrimPath": "/World/Franka/panda_link3/geometry",
+      "parentId": "/World/Franka/panda_link3",
+      "nodeIndices": [
+        18
+      ],
+      "nodes": [
+        "geometry"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link3/geometry/panda_link3",
+      "displayName": "panda_link3",
+      "sourcePrimPath": "/World/Franka/panda_link3/geometry/panda_link3",
+      "parentId": "/World/Franka/panda_link3/geometry",
+      "nodeIndices": [
+        19,
+        20
+      ],
+      "nodes": [
+        "panda_link3",
+        "panda_link3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link4",
+      "displayName": "panda_link4",
+      "sourcePrimPath": "/World/Franka/panda_link4",
+      "parentId": "/World/Franka",
+      "nodeIndices": [
+        21
+      ],
+      "nodes": [
+        "panda_link4"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link4/geometry",
+      "displayName": "geometry",
+      "sourcePrimPath": "/World/Franka/panda_link4/geometry",
+      "parentId": "/World/Franka/panda_link4",
+      "nodeIndices": [
+        22
+      ],
+      "nodes": [
+        "geometry"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link4/geometry/panda_link4",
+      "displayName": "panda_link4",
+      "sourcePrimPath": "/World/Franka/panda_link4/geometry/panda_link4",
+      "parentId": "/World/Franka/panda_link4/geometry",
+      "nodeIndices": [
+        23,
+        24
+      ],
+      "nodes": [
+        "panda_link4",
+        "panda_link4"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link5",
+      "displayName": "panda_link5",
+      "sourcePrimPath": "/World/Franka/panda_link5",
+      "parentId": "/World/Franka",
+      "nodeIndices": [
+        25
+      ],
+      "nodes": [
+        "panda_link5"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link5/geometry",
+      "displayName": "geometry",
+      "sourcePrimPath": "/World/Franka/panda_link5/geometry",
+      "parentId": "/World/Franka/panda_link5",
+      "nodeIndices": [
+        26
+      ],
+      "nodes": [
+        "geometry"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link5/geometry/panda_link5",
+      "displayName": "panda_link5",
+      "sourcePrimPath": "/World/Franka/panda_link5/geometry/panda_link5",
+      "parentId": "/World/Franka/panda_link5/geometry",
+      "nodeIndices": [
+        27,
+        28
+      ],
+      "nodes": [
+        "panda_link5",
+        "panda_link5"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link6",
+      "displayName": "panda_link6",
+      "sourcePrimPath": "/World/Franka/panda_link6",
+      "parentId": "/World/Franka",
+      "nodeIndices": [
+        29
+      ],
+      "nodes": [
+        "panda_link6"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link6/geometry",
+      "displayName": "geometry",
+      "sourcePrimPath": "/World/Franka/panda_link6/geometry",
+      "parentId": "/World/Franka/panda_link6",
+      "nodeIndices": [
+        30
+      ],
+      "nodes": [
+        "geometry"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link6/geometry/panda_link6",
+      "displayName": "panda_link6",
+      "sourcePrimPath": "/World/Franka/panda_link6/geometry/panda_link6",
+      "parentId": "/World/Franka/panda_link6/geometry",
+      "nodeIndices": [
+        31,
+        32
+      ],
+      "nodes": [
+        "panda_link6",
+        "panda_link6"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link7",
+      "displayName": "panda_link7",
+      "sourcePrimPath": "/World/Franka/panda_link7",
+      "parentId": "/World/Franka",
+      "nodeIndices": [
+        33
+      ],
+      "nodes": [
+        "panda_link7"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link7/geometry",
+      "displayName": "geometry",
+      "sourcePrimPath": "/World/Franka/panda_link7/geometry",
+      "parentId": "/World/Franka/panda_link7",
+      "nodeIndices": [
+        34
+      ],
+      "nodes": [
+        "geometry"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_link7/geometry/panda_link7",
+      "displayName": "panda_link7",
+      "sourcePrimPath": "/World/Franka/panda_link7/geometry/panda_link7",
+      "parentId": "/World/Franka/panda_link7/geometry",
+      "nodeIndices": [
+        35,
+        36
+      ],
+      "nodes": [
+        "panda_link7",
+        "panda_link7"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_rightfinger",
+      "displayName": "panda_rightfinger",
+      "sourcePrimPath": "/World/Franka/panda_rightfinger",
+      "parentId": "/World/Franka",
+      "nodeIndices": [
+        40
+      ],
+      "nodes": [
+        "panda_rightfinger"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_rightfinger/geometry",
+      "displayName": "geometry",
+      "sourcePrimPath": "/World/Franka/panda_rightfinger/geometry",
+      "parentId": "/World/Franka/panda_rightfinger",
+      "nodeIndices": [
+        41
+      ],
+      "nodes": [
+        "geometry"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_rightfinger/geometry/ID27",
+      "displayName": "ID27",
+      "sourcePrimPath": "/World/Franka/panda_rightfinger/geometry/ID27",
+      "parentId": "/World/Franka/panda_rightfinger/geometry",
+      "nodeIndices": [
+        42
+      ],
+      "nodes": [
+        "ID27"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_rightfinger/geometry/ID27SVM",
+      "displayName": "ID27SVM",
+      "sourcePrimPath": "/World/Franka/panda_rightfinger/geometry/ID27SVM",
+      "parentId": "/World/Franka/panda_rightfinger/geometry",
+      "nodeIndices": [
+        44
+      ],
+      "nodes": [
+        "ID27SVM"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/Franka/panda_rightfinger/geometry/ID27fa3",
+      "displayName": "ID27fa3",
+      "sourcePrimPath": "/World/Franka/panda_rightfinger/geometry/ID27fa3",
+      "parentId": "/World/Franka/panda_rightfinger/geometry",
+      "nodeIndices": [
+        43
+      ],
+      "nodes": [
+        "ID27fa3"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/InspectionCamera",
+      "displayName": "InspectionCamera",
+      "sourcePrimPath": "/World/InspectionCamera",
+      "parentId": "/World",
+      "nodeIndices": [
+        207
+      ],
+      "nodes": [
+        "InspectionCamera"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/OverviewCamera",
+      "displayName": "OverviewCamera",
+      "sourcePrimPath": "/World/OverviewCamera",
+      "parentId": "/World",
+      "nodeIndices": [
+        96
+      ],
+      "nodes": [
+        "OverviewCamera"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems",
+      "displayName": "RecordedItems",
+      "sourcePrimPath": "/World/RecordedItems",
+      "parentId": "/World",
+      "nodeIndices": [
+        208
+      ],
+      "nodes": [
+        "RecordedItems"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item000",
+      "displayName": "Item000",
+      "sourcePrimPath": "/World/RecordedItems/Item000",
+      "parentId": "/World/RecordedItems",
+      "nodeIndices": [
+        209
+      ],
+      "nodes": [
+        "Item000"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item000/Cheese",
+      "displayName": "Cheese",
+      "sourcePrimPath": "/World/RecordedItems/Item000/Cheese",
+      "parentId": "/World/RecordedItems/Item000",
+      "nodeIndices": [
+        210
+      ],
+      "nodes": [
+        "Cheese"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item001",
+      "displayName": "Item001",
+      "sourcePrimPath": "/World/RecordedItems/Item001",
+      "parentId": "/World/RecordedItems",
+      "nodeIndices": [
+        211
+      ],
+      "nodes": [
+        "Item001"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item001/Cheese",
+      "displayName": "Cheese",
+      "sourcePrimPath": "/World/RecordedItems/Item001/Cheese",
+      "parentId": "/World/RecordedItems/Item001",
+      "nodeIndices": [
+        212
+      ],
+      "nodes": [
+        "Cheese"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item002",
+      "displayName": "Item002",
+      "sourcePrimPath": "/World/RecordedItems/Item002",
+      "parentId": "/World/RecordedItems",
+      "nodeIndices": [
+        213
+      ],
+      "nodes": [
+        "Item002"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item002/Cheese",
+      "displayName": "Cheese",
+      "sourcePrimPath": "/World/RecordedItems/Item002/Cheese",
+      "parentId": "/World/RecordedItems/Item002",
+      "nodeIndices": [
+        214
+      ],
+      "nodes": [
+        "Cheese"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item003",
+      "displayName": "Item003",
+      "sourcePrimPath": "/World/RecordedItems/Item003",
+      "parentId": "/World/RecordedItems",
+      "nodeIndices": [
+        215
+      ],
+      "nodes": [
+        "Item003"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item003/Cheese",
+      "displayName": "Cheese",
+      "sourcePrimPath": "/World/RecordedItems/Item003/Cheese",
+      "parentId": "/World/RecordedItems/Item003",
+      "nodeIndices": [
+        216
+      ],
+      "nodes": [
+        "Cheese"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item004",
+      "displayName": "Item004",
+      "sourcePrimPath": "/World/RecordedItems/Item004",
+      "parentId": "/World/RecordedItems",
+      "nodeIndices": [
+        217
+      ],
+      "nodes": [
+        "Item004"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item004/Cheese",
+      "displayName": "Cheese",
+      "sourcePrimPath": "/World/RecordedItems/Item004/Cheese",
+      "parentId": "/World/RecordedItems/Item004",
+      "nodeIndices": [
+        218
+      ],
+      "nodes": [
+        "Cheese"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item005",
+      "displayName": "Item005",
+      "sourcePrimPath": "/World/RecordedItems/Item005",
+      "parentId": "/World/RecordedItems",
+      "nodeIndices": [
+        219
+      ],
+      "nodes": [
+        "Item005"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item005/Cheese",
+      "displayName": "Cheese",
+      "sourcePrimPath": "/World/RecordedItems/Item005/Cheese",
+      "parentId": "/World/RecordedItems/Item005",
+      "nodeIndices": [
+        220
+      ],
+      "nodes": [
+        "Cheese"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item006",
+      "displayName": "Item006",
+      "sourcePrimPath": "/World/RecordedItems/Item006",
+      "parentId": "/World/RecordedItems",
+      "nodeIndices": [
+        221
+      ],
+      "nodes": [
+        "Item006"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item006/Cheese",
+      "displayName": "Cheese",
+      "sourcePrimPath": "/World/RecordedItems/Item006/Cheese",
+      "parentId": "/World/RecordedItems/Item006",
+      "nodeIndices": [
+        222
+      ],
+      "nodes": [
+        "Cheese"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item007",
+      "displayName": "Item007",
+      "sourcePrimPath": "/World/RecordedItems/Item007",
+      "parentId": "/World/RecordedItems",
+      "nodeIndices": [
+        223
+      ],
+      "nodes": [
+        "Item007"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item007/Cheese",
+      "displayName": "Cheese",
+      "sourcePrimPath": "/World/RecordedItems/Item007/Cheese",
+      "parentId": "/World/RecordedItems/Item007",
+      "nodeIndices": [
+        224
+      ],
+      "nodes": [
+        "Cheese"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item008",
+      "displayName": "Item008",
+      "sourcePrimPath": "/World/RecordedItems/Item008",
+      "parentId": "/World/RecordedItems",
+      "nodeIndices": [
+        225
+      ],
+      "nodes": [
+        "Item008"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item008/Cheese",
+      "displayName": "Cheese",
+      "sourcePrimPath": "/World/RecordedItems/Item008/Cheese",
+      "parentId": "/World/RecordedItems/Item008",
+      "nodeIndices": [
+        226
+      ],
+      "nodes": [
+        "Cheese"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item009",
+      "displayName": "Item009",
+      "sourcePrimPath": "/World/RecordedItems/Item009",
+      "parentId": "/World/RecordedItems",
+      "nodeIndices": [
+        227
+      ],
+      "nodes": [
+        "Item009"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item009/Cheese",
+      "displayName": "Cheese",
+      "sourcePrimPath": "/World/RecordedItems/Item009/Cheese",
+      "parentId": "/World/RecordedItems/Item009",
+      "nodeIndices": [
+        228
+      ],
+      "nodes": [
+        "Cheese"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item010",
+      "displayName": "Item010",
+      "sourcePrimPath": "/World/RecordedItems/Item010",
+      "parentId": "/World/RecordedItems",
+      "nodeIndices": [
+        229
+      ],
+      "nodes": [
+        "Item010"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/RecordedItems/Item010/Cheese",
+      "displayName": "Cheese",
+      "sourcePrimPath": "/World/RecordedItems/Item010/Cheese",
+      "parentId": "/World/RecordedItems/Item010",
+      "nodeIndices": [
+        230
+      ],
+      "nodes": [
+        "Cheese"
+      ],
+      "role": "scene-object"
+    },
+    {
+      "id": "/World/ground_plane",
+      "displayName": "ground_plane",
+      "sourcePrimPath": "/World/ground_plane",
+      "parentId": "/World",
+      "nodeIndices": [
+        2
+      ],
+      "nodes": [
+        "ground_plane"
+      ],
+      "role": "scene-object"
+    }
+  ],
+  "animation": {
+    "durationSeconds": 72.78333333333333
+  }
+}
